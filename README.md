@@ -48,7 +48,7 @@ Los escenarios de pruebas se crean en el feature con lenguaje Gherkin, se conect
    ┃ ┃ ┃   ┣ 📂runners(Clases para ejecutar la automatización con los escenarios indicados en el feature.)
    ┃ ┃ ┃   ┗ 📂stepDefinitions (Clases donde se definen los pasos de los escenarios a ejecutar en la automatización.)
    ┃ ┃ ┗ 📂resources
-   ┃ ┃   ┣ 📂features (Se almacenar los archivos con extensión.feature, donde se redactan las historias de usuario.)
+   ┃ ┃   ┣ 📂features (Se almacenan los archivos con extensión.feature, donde se redactan las historias de usuario.)
    ┃ ┃   ┗ 📜serenity.conf
    ┣ 📂target
    ┣ 📜build.gradle
